@@ -1,7 +1,8 @@
 /* section */
 #first-seq {
-    background-color: aqua;
+    background-color: rgb(255, 211, 211);
     display: flex;
+    padding: 0px 10px;
     margin: 0px;
 }
 /* button */
@@ -12,7 +13,12 @@
     padding: 10px 20px;
     border-radius: 5px;
 }
-
+.first-flower{
+    height: 500px;
+    width: 400px;
+     
+    
+    ;}
 .header{
     width: 50%;
     margin: 70px;
@@ -22,6 +28,6 @@ h1{
 }
 .first-flower{
     margin-top: 40px;
-    margin-bottom: -40px;
+    margin-bottom: 0px;
 
 }
