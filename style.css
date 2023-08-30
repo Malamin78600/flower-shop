@@ -1,3 +1,10 @@
+/* section */
+#first-seq {
+    background-color: aqua;
+    display: flex;
+    margin: 0px;
+}
+/* button */
 .shopnow{
     color: white;
     background-color: rgb(222, 73, 73);
@@ -5,13 +12,16 @@
     padding: 10px 20px;
     border-radius: 5px;
 }
-#first-seq{
-    display: flex;
-    margin: auto;
-    background-color:aqua; 
-    padding-top: 10px;
-    
+
+.header{
+    width: 50%;
+    margin: 70px;
 }
-p{
+h1{
+    font-size: 70px;
+}
+.first-flower{
+    margin-top: 40px;
+    margin-bottom: -40px;
 
 }
